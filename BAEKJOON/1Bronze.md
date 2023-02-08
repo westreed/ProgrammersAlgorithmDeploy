@@ -8,4 +8,4 @@
 |001|구현, 문자열|Python|문자열 반복|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithmDeploy/blob/main/BAEKJOON/1Bronze/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%98%EB%B3%B5.py)|[바로가기](https://www.acmicpc.net/problem/2675)|
 
 
-**Update Date 2023/02/08 21:33:38 KST**
+**Update Date 2023/02/08 21:54:00 KST**
