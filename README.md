@@ -1,7 +1,7 @@
 # 문제정리용 Repository Deploy
 
 이 리포지토리는 코딩테스트를 대비하여 여러 문제의 코드풀이를 정리해서 업로드 및 관리하는 용도입니다.<br>
-해당 리포티토리를 활용하시려면, 각 사이트별 난이도 폴더 안의 내용을 전부 삭제해주세요.
+예시로 백준 사이트의 문제풀이 업로드용으로 BAEKJOON 폴더 하나만 남아있는 상태입니다.
 ## 사용방법
 
 1. `scripts/data.py` 안의 `folder_List` 내용을 (폴더이름, 사이트이름) 순으로 입력해주세요.
@@ -39,4 +39,4 @@ Action에서 다음과 비슷한 오류가 발생했을 때, [Settings]-[Actions
 |1Bronze|[바로가기](https://github.com/westreed/ProgrammersAlgorithmDeploy/blob/main/BAEKJOON/1Bronze.md)|02|02|100%|
 
 
-**Update Date 2023/02/08 21:54:00 KST**
+**Update Date 2023/02/08 21:55:44 KST**
