@@ -1,5 +1,5 @@
 
-githubLink = 'westreed/ProgrammersAlgorithm'
+githubLink = 'westreed/ProgrammersAlgorithmDeploy'
 
 # 사이트별 폴더 ('폴더이름', '사이트이름') 으로 작성하기
 # 폴더이름은 파일 접근을 위해서, 사이트이름은 md파일로 생성하면서 사이트이름을 표기할 때 사용됩니다.
